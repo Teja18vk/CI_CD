@@ -1,5 +1,6 @@
-from app.main import HelloWorld  # or hello_world if renamed
+from app.main import hello_world
 
-def test_sample():
-    assert 2 + 2 == 4
+def test_dummy():
+    assert 1 + 1 == 2
+
 
